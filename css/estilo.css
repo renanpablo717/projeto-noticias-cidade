@@ -118,9 +118,27 @@ body.fotos #navegacao a#fotos{
 
 #lateral{
     width: 180px;
-    background: yellow;
     margin: 0 0 20px -750px; /*superior, direita, baixo e esquerda*/
     float: left;
+}
+
+.caixa{
+    margin: 10px 0px;
+    padding: 5px;
+    background: #f3f3f3 url(../imagens/fundo-caixa.png);
+}
+
+h2{
+    font-size: 1.1em;
+    background: #294c71;
+    color: #fff;
+    padding: 5px;
+}
+
+.caixa-conteudo{
+    background: #fff;
+    padding: 5px;
+    margin-top: 5px;
 }
 
 
