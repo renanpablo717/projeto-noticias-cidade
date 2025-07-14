@@ -140,8 +140,47 @@ h2{
     padding: 5px;
     margin-top: 5px;
 }
+/*Formatar menus Laterais*/
+#lateral ul a{
+    font-size: 1em;
+    font-weight: 550;
+    padding: 3px;
+    display: block;
+    line-height: 28px;
+    color: #000;
+    text-decoration: none;
+    border-bottom: 1px solid #f3f3f3;
 
+}
 
+#lateral ul a:hover{
+    background: #f9f9f9 url(../imagens/marcador.png) no-repeat left center;
+    padding-left: 20px;
+    color: #a1a1a1;
+    transition: 0.5s;
+}
+
+label{
+    display: block;
+    cursor: pointer;
+}
+
+input.submit{
+    width: 80px;
+    color: #fff;
+    background-color: #b10333;
+    border: 2px solid #870529;
+    margin-top: 5px;
+}
+
+input{
+    padding: 5px;
+    width: 125px;
+    font-size: 0.9em;
+    background-color: #fff;
+}
+
+/*rodape*/
 #container-rodape{
     background: #294c71;
     padding: 20px;
