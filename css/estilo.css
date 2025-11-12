@@ -84,7 +84,7 @@ body.economia #navegacao a#economia,
 body.saude #navegacao a#saude,
 body.ciencia #navegacao a#ciencia,
 body.fotos #navegacao a#fotos{
-    background-color: #de003e;
+    background-color: #a81d44;
     cursor: text;
     color: white;
 }
